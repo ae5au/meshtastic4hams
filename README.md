@@ -29,6 +29,12 @@ An open source, off-grid, decentralized, mesh network built to run on affordable
 
 ## Why?
 
+* Keep in touch
+* Comm plan for emergencies
+* Fun
+
+## Where?
+
 * Neighborhood
 * Outdoor activities
 * Metro or larger area

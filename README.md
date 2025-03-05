@@ -28,29 +28,37 @@ An open source, off-grid, decentralized, mesh network built to run on affordable
     * Also options for hardware that is ready out-of-the-box.
 
 ## Why?
-
 * Keep in touch
 * Comm plan for emergencies
 * Fun
 
 ## Where?
-
 * Neighborhood
 * Outdoor activities
 * Metro or larger area
 
 ## How?
-
 * Buy/build node
     * General guidance on nodes. Power, Wi-Fi, etc.
 * Flash firmware
 * Tips
     * Maybe info on what (not) to do, etc.
+    * Remote management
 
 ## Hardware
-* Show various hardware options
+* Show various hardware options - VISUAL
 * Discuss phone app and how app/node relationship works.
 
 ## Other
 * Comparisons to APRS
+* Use defaults first, customize later.
+   * Don't change your default channel until you understand why
+* Don't enabled licensed mode unless you know why you want to
 * LoRa-APRS and other similar things
+* Solar
+
+## Visuals
+*   Physical devices
+*   Apps
+*   Modulation - SS but not what you think
+

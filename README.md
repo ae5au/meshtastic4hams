@@ -1,7 +1,7 @@
 # meshtastic4hams
 Presentation on Meshtastic geared toward amateur radio operators
 
-## What is Meshtastic? TODO:SCREENSHOT
+## What is Meshtastic?
 An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices.
 
 * Open source
@@ -12,7 +12,7 @@ An open source, off-grid, decentralized, mesh network built to run on affordable
 * Mesh network
     * Wikipedia: A mesh network is a network topology in which the nodes connect directly, dynamically and non-hierarchically to as many other nodes as possible and cooperate with one another to efficiently route data to and from clients.
     * Maybe a stretch, but basically the focus is that most nodes contribute to extending the network and it can function without much planning.
-* Affordable devices TODO:IMAGE
+* Affordable devices
     * Devices range from $20 ~ $100.
     * Many options for 3D printed cases and DIY builds.
     * Also options for hardware that is ready out-of-the-box.
@@ -28,7 +28,7 @@ That's a good one-liner, but what does it not answer?
     * Different than APRS in that nodes by default repeat traffic like a digi
 * Mostly unlicensed ISM bands - 900MHz in US
 * LoRa - "long range"
-    * CSS - Chirp Spread Spectrum  TODO:IMAGE
+    * CSS - Chirp Spread Spectrum
         * SS, but not really wide-banded.
     * Similar to FT8 in working below noise floor.
     * Focus on distance over speed
@@ -44,8 +44,8 @@ That's a good one-liner, but what does it not answer?
 * Metro or larger area
 
 ## How? - Get Device
-* Show various hardware options - TODO:IMAGES
-* Discuss phone app and how app/node relationship works. - TODO:IMAGES
+* Show various hardware options
+* Discuss phone app and how app/node relationship works.
     * Phone app doesn't require internet or Wi-Fi
 * Node options
     * nRF52840 Battery / solar
@@ -62,6 +62,7 @@ That's a good one-liner, but what does it not answer?
     * Use defaults first, customize later
     * Set long and short names. Leave channels alone at first.
     * Don't use licensed mode
+    * Terminology can be confusing. "Channel", etc.
     * Maybe info on what (not) to do, etc.
 * Remote management
     * Can't upgrade firmware over network or LoRa

@@ -67,5 +67,11 @@ That's a good one-liner, but what does it not answer?
     * Consider how to maintain remote nodes
     * Setting management using admin keys
 
+## Links / contact
+* meshtastic.org
+* https://lrme.sh
+* Discord / Facebook
+* Email
+
 ## Other
 * LoRa-APRS and other similar things

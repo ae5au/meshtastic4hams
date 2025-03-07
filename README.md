@@ -57,6 +57,7 @@ That's a good one-liner, but what does it not answer?
     * https://meshtastic.org/docs/hardware/devices/
 * Flash firmware
     * Chrome - https://flasher.meshtastic.org/
+    * Check USB serial drivers on ESP32 devices
 * Tips
     * Use defaults first, customize later
     * Set long and short names. Leave channels alone at first.

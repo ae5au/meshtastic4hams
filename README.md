@@ -44,7 +44,7 @@ That's a good one-liner, but what does it not answer?
 * Metro or larger area
 
 ## How? - Get Device
-* Show various hardware options
+* Show various hardware options - photos
 * Discuss phone app and how app/node relationship works.
     * Phone app doesn't require internet or Wi-Fi
 * Node options
@@ -52,22 +52,25 @@ That's a good one-liner, but what does it not answer?
     * ESP32 - Wi-Fi
     * PA / LNA options
 
-## How? - Setup Device
+## How? - Device Setup
 * Buy/build node
     * https://meshtastic.org/docs/hardware/devices/
 * Flash firmware
     * Chrome - https://flasher.meshtastic.org/
     * Check USB serial drivers on ESP32 devices
+    * ESP32 web client must be specifically selected
 * Tips
+    * No power without antenna
     * Use defaults first, customize later
-    * Set long and short names. Leave channels alone at first.
+    * Set long and short names. Leave channels alone at first
+    * Set region and enable transmit
     * Don't use licensed mode
     * Terminology can be confusing. "Channel", etc.
-    * Maybe info on what (not) to do, etc.
+    * Network and Bluetooth can't be enabled together
 * Remote management
-    * Can't upgrade firmware over network or LoRa
     * Consider how to maintain remote nodes
-    * Setting management using admin keys
+    * Setting management over RF using admin keys
+    * Firmware upgrade options
 
 ## Links / contact
 * meshtastic.org
